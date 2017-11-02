@@ -16,3 +16,4 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 raio = float(input())
 area = 3.14159*(raio*raio)
 print('A={:.4f}'.format(area))
+
